@@ -177,7 +177,6 @@ Open any `.sql` file from the `queries/` folder and execute in MySQL Workbench.
 Aspiring Data Scientist
 
 [![GitHub](https://img.shields.io/badge/GitHub-namratacodes-black?logo=github)](https://github.com/namratacodes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/namrata-singh-3658b0287-blue?logo=linkedin)](www.linkedin.com/in/namrata-singh-3658b0287)
 
 ---
 
